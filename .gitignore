@@ -1,0 +1,11 @@
+.venv/
+.env
+output/*
+vector/*
+logs/*
+db/*
+.idea
+.idea/*
+DS_Store
+__pycache__
+.DS_Store

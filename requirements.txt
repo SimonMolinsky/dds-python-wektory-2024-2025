@@ -1,0 +1,7 @@
+folium
+geopandas
+mapclassify
+matplotlib
+notebook
+pandas
+numpy
