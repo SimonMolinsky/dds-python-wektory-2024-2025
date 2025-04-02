@@ -5,3 +5,4 @@ matplotlib
 notebook
 pandas
 numpy
+seaborn
